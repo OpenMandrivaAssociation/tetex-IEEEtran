@@ -8,8 +8,8 @@
 %define bibpkgdoc   %{_texmf}/doc/bibtex/%{texpkg}
 
 Name:           tetex-%{texpkg}
-Version:        1.7a
-Release:        %mkrel 4
+Version:        1.7.1
+Release:        %mkrel 1
 Epoch:          0
 Summary:        Official LaTeX class for IEEE transactions journals and conferences
 Group:          Publishing
