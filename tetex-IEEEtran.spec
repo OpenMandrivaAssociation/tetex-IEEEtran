@@ -9,7 +9,7 @@
 
 Name:           tetex-%{texpkg}
 Version:        1.7.1
-Release:        %mkrel 1
+Release:        %mkrel 2
 Epoch:          0
 Summary:        Official LaTeX class for IEEE transactions journals and conferences
 Group:          Publishing
