@@ -80,3 +80,37 @@ fi
 %{bibpkgdir}
 %{bstpkgdir}
 %{bibpkgdoc}
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 0:1.7.1-2mdv2010.0
++ Revision: 434346
+- rebuild
+
+* Sat Aug 16 2008 David Walluck <walluck@mandriva.org> 0:1.7.1-1mdv2009.0
++ Revision: 272754
+- 1.7.1
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 0:1.7a-4mdv2009.0
++ Revision: 261498
+- rebuild
+
+* Wed Jul 30 2008 Thierry Vignaud <tvignaud@mandriva.com> 0:1.7a-3mdv2009.0
++ Revision: 254395
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 0:1.7a-1mdv2008.1
++ Revision: 136535
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+* Sun Apr 29 2007 David Walluck <walluck@mandriva.org> 0:1.7a-1mdv2008.0
++ Revision: 19062
+- Import tetex-IEEEtran
+
+
+
+* Sun Apr 29 2007 David Walluck <walluck@mandriva.org> 0:1.7a-1mdv2008.0
+- release
