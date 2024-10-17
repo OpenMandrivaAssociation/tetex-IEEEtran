@@ -14,7 +14,7 @@ Epoch:          0
 Summary:        Official LaTeX class for IEEE transactions journals and conferences
 Group:          Publishing
 License:        Artistic
-URL:            http://www.ctan.org/tex-archive/help/Catalogue/entries/ieeetran.html
+URL:            https://www.ctan.org/tex-archive/help/Catalogue/entries/ieeetran.html
 Source0:        ftp://ftp.dante.de/tex-archive/macros/latex/contrib/IEEEtran.zip
 Requires:       tetex-latex
 Requires(post): tetex
